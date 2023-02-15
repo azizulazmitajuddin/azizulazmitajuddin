@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Below are my skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,bootstrap)](https://skillicons.dev)
+
 <!--
 **azizulazmitajuddin/azizulazmitajuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
